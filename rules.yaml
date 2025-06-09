@@ -1,4 +1,4 @@
-name: Iran-Rule
+name: Iran-Rules
 rule-providers:
   ir:
     type: http
