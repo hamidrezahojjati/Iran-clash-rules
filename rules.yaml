@@ -74,4 +74,3 @@ rules :
   - RULE-SET,ir,DIRECT
   - RULE-SET,ircidr,DIRECT
   - RULE-SET,irasn,DIRECT
-  - MATCH,FASTSSH-SSHKIT-HOWDY
