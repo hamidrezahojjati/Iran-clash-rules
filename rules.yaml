@@ -1,5 +1,4 @@
 name: Iran-Rule
-Description: Chocolate4U
 rule-providers:
   ir:
     type: http
