@@ -1,2 +1,3 @@
+name: DNS
 dns_servers:
   - https://8.8.8.8/dns-query
